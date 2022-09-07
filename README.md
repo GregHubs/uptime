@@ -14,7 +14,7 @@ This repository contains the open-source uptime monitor and status page for [Upp
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+[**Visit our status website →**](https://greghubs.github.io/uptime/)
 
 ## 📄 License
 
