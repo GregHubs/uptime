@@ -7,18 +7,17 @@ sites:
     url: https://www.kactus.com
   - name: Bird Office
     url: https://www.bird-office.com
-
+    
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.kactus.com/assets/logos/kactus/only-logo-49339dc1e6ddaaaf34089190d4430e5532d132017d25c6f2a4e19a793648b5b9.png
+  name: BOK Uptime
+  introTitle: Our Status page
+  introMessage: System status
   navbar:
     - title: Status
       href: /
     - title: Kactus
       href: https://ww.kactus.com
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
