@@ -20,7 +20,7 @@ status-website:
     - title: Kactus
       href: https://www.kactus.com
 i18n:
-  footer: coucou
+  footer: Made with love dans les Pyrénées
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
