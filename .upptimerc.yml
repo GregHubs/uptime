@@ -19,8 +19,7 @@ status-website:
       href: /
     - title: Kactus
       href: https://www.kactus.com
-i18n:
-  footer: Powered with <3 dans les Pyrénées
+
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
