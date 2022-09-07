@@ -19,7 +19,8 @@ status-website:
       href: /
     - title: Kactus
       href: https://www.kactus.com
-
+i18n:
+  footer: coucou
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
