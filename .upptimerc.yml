@@ -20,7 +20,7 @@ status-website:
       href: /
     - title: Kactus
       href: https://www.kactus.com
-  theme: ocean
+  theme: light
   
 i18n:
   footer: Made with love dans les Pyrénées
